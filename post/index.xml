@@ -6,8 +6,17 @@
     <description>Recent content in Posts on Simon Crewe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Mar 2017 14:59:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Mar 2017 10:17:37 +0000</lastBuildDate>
     <atom:link href="https://joshuacrewe.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>deploy</title>
+      <link>https://joshuacrewe.github.io/post/deploy/</link>
+      <pubDate>Sat, 04 Mar 2017 10:17:37 +0000</pubDate>
+      
+      <guid>https://joshuacrewe.github.io/post/deploy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>welcome</title>
