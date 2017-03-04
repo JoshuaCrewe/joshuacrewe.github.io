@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://joshuacrewe.github.io/post/deploy/</loc>
-    <lastmod>2017-03-04T10:17:37+00:00</lastmod>
+    <loc>https://joshuacrewe.github.io/post/deploy-with-forestry-io/</loc>
+    <lastmod>2017-03-04T10:22:33+00:00</lastmod>
   </url>
   
   <url>
@@ -18,7 +18,13 @@
   
   <url>
     <loc>https://joshuacrewe.github.io/categories/</loc>
-    <lastmod>2017-03-04T10:17:37+00:00</lastmod>
+    <lastmod>2017-03-03T15:00:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://joshuacrewe.github.io/categories/case-study/</loc>
+    <lastmod>2017-03-04T10:22:33+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -35,13 +41,13 @@
   
   <url>
     <loc>https://joshuacrewe.github.io/post/</loc>
-    <lastmod>2017-03-04T10:17:37+00:00</lastmod>
+    <lastmod>2017-03-04T10:22:33+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://joshuacrewe.github.io/</loc>
-    <lastmod>2017-03-04T10:17:37+00:00</lastmod>
+    <lastmod>2017-03-04T10:22:33+00:00</lastmod>
     <priority>0</priority>
   </url>
   
